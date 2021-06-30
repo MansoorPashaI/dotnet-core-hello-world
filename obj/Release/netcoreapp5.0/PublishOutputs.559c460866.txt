@@ -1,0 +1,7 @@
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/dotnet-core-hello-world
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/dotnet-core-hello-world.dll
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/dotnet-core-hello-world.deps.json
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/dotnet-core-hello-world.runtimeconfig.json
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/dotnet-core-hello-world.pdb
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/home/hello/dotnet-core-hello-world/bin/Release/netcoreapp5.0/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
